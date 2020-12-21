@@ -42,9 +42,9 @@
 #### 가. 불한당: 나쁜 놈들의 세상(2016)
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="400" src="https://user-images.githubusercontent.com/74141344/102816492-713eb580-4411-11eb-8c95-4732edbf8ae3.png">
- <img width="400" src="https://user-images.githubusercontent.com/74141344/102816486-6f74f200-4411-11eb-8306-600658fec240.png">
- <img width="400" src="https://user-images.githubusercontent.com/74141344/102816489-70a61f00-4411-11eb-857f-980876fa5295.png">
+ <img width="450" src="https://user-images.githubusercontent.com/74141344/102816492-713eb580-4411-11eb-8c95-4732edbf8ae3.png">
+ <img width="450" src="https://user-images.githubusercontent.com/74141344/102816486-6f74f200-4411-11eb-8306-600658fec240.png">
+ <img width="450" src="https://user-images.githubusercontent.com/74141344/102816489-70a61f00-4411-11eb-857f-980876fa5295.png">
   
 > 평점 1-3점에서는 ‘일베’, ‘홍어’, ‘전라도’, ‘SNS', ‘트위터’, ‘인성’, ‘망한’ 등의 키워드가 나타났다. 영화 자체를 폄하하는 키워드도 나타나지만, 감독의 언행 및 정치 성향 등 논란이 되었던 주제와 관련한 키워드가 다수를 이루었다. 평점 4-7점에서는 ‘논란’, ‘그냥’, ‘킬링타임’, ‘그럭저럭’, ‘짬뽕’, ‘아쉽다’, ‘수준’ 등의 키워드가 나타났다. 평점 1-3점이나 8-10점보다는 다소 영화 내적인 요소인 캐스팅이나 스토리와 관련한 키워드가 두드러지는 양상을 보였다. 평점 8-10점에서는 ‘느와르’, ‘연기’, ‘스토리’, ‘연기력’, ‘좋았습니다’, ‘봤습니다’, ‘재밌었어요’ 등의 키워드가 나타났다. 평점 4-7점과 비슷하게 영화의 내부적 요소인 스토리나 배우의 연기력에 대해 언급하고 있지만, 주로 ‘좋다’, ‘재밌다’ 등의 긍정적인 감정 표현이 두드러진다.
 ‘신세계’, ‘프리즌’, ‘무간도’ 등 느와르 장르의 다른 영화제목은 모든 평점 구간에서 나타나고 있으나, 실제 원문을 분석하면 완전히 반대되는 문맥을 나타내고 있다. 높은 평점에서는 ‘불한당이 ㅇㅇ 영화보다 낫다’ 등의 의미로 언급되지만, 낮은 평점에서는 ‘감히 ㅇㅇ 영화와 비교를 하느냐’ 등의 의미로 언급되고 있다.
@@ -52,9 +52,9 @@
 #### 나. 지금은맞고그때는틀리다(2015), 밤의 해변에서 혼자(2016) 
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
-<img width="500" src="https://user-images.githubusercontent.com/74141344/102816781-ead6a380-4411-11eb-8ad4-65ffba7f6fcf.png">
-<img width="500" src="https://user-images.githubusercontent.com/74141344/102816785-ec07d080-4411-11eb-9edf-59aad7aed330.png">
-<img width="500" src="https://user-images.githubusercontent.com/74141344/102816788-eca06700-4411-11eb-8f14-1d8808cfc8fe.png">
+<img width="450" src="https://user-images.githubusercontent.com/74141344/102816781-ead6a380-4411-11eb-8ad4-65ffba7f6fcf.png">
+<img width="450" src="https://user-images.githubusercontent.com/74141344/102816785-ec07d080-4411-11eb-9edf-59aad7aed330.png">
+<img width="450" src="https://user-images.githubusercontent.com/74141344/102816788-eca06700-4411-11eb-8f14-1d8808cfc8fe.png">
   
 > 평점 1-3점에서는 ‘불륜’, ‘쓰레기’, ‘아깝다’, ‘미화’, ‘합리화’ 등의 키워드가 나타났다. 홍상수 감독의 불륜 스캔들과 관련한 키워드가 주를 이루고 있다. 평점 4-7점에서는 ‘그래도’, ‘좋았다’, ‘조금’, ‘지루한’, ‘변명’, ‘매력’등의 키워드가 나타났으며, 평점 8-10점에서는 ‘연기’, ‘정재영’, ‘배우’, ‘좋았다’, ‘대사’, ‘좋았어요’, ‘합니다’ 등의 키워드가 나타났다.
  전반적으로 ‘영화’, ‘감독’, ‘사랑’ 등의 키워드는 모든 평점 구간에서 많이 등장하고 있다. 스캔들과 관련된 인물인 ‘홍상수’와 ‘김민희’ 역시 모든 평점 구간에서 나타나지만 주로 높은 평점에서 더 크게 나타나고 있다. 낮은 평점에서 영화 외적인 요소인 스캔들에 대한 키워드가 많이 나타남에도 당사자의 이름이 적게 나타나는 것은 인물의 이름을 언급하기보다 ‘불륜’이나 ‘바람’ 등 다른 단어를 통해 언급하고 있기 때문으로 보인다. 이 때문에 ‘불륜’이라는 키워드는 낮은 평점에서 유독 크게 나타나고 있다. 4-7점과 8-10점에서 비교적 크게 나타나는 단어로는 ‘연기’와 ‘정재영’이 있는데, 배우 정재영의 경우 스캔들과는 관련 없이 해당 영화의 주연배우로서만 관련되어 있기 때문으로 보인다.
@@ -62,9 +62,9 @@
 #### 다. 뮬란(2020)
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="500" src="https://user-images.githubusercontent.com/74141344/102815924-87984180-4410-11eb-8e2a-57dabaa1e1d5.png">
- <img width="500" src="https://user-images.githubusercontent.com/74141344/102815982-9aab1180-4410-11eb-9bea-9baa1bdb94a0.png">
- <img width="500" src="https://user-images.githubusercontent.com/74141344/102815992-9da60200-4410-11eb-9d41-94af6b4f3d56.png">
+ <img width="450" src="https://user-images.githubusercontent.com/74141344/102815924-87984180-4410-11eb-8e2a-57dabaa1e1d5.png">
+ <img width="450" src="https://user-images.githubusercontent.com/74141344/102815982-9aab1180-4410-11eb-9bea-9baa1bdb94a0.png">
+ <img width="450" src="https://user-images.githubusercontent.com/74141344/102815992-9da60200-4410-11eb-9d41-94af6b4f3d56.png">
   
 > 평점 1-3점에서는 ‘중국’, ‘홍콩’, ‘평점’, ‘위구르’, ‘공산당’, ‘인권’ 등의 키워드가 주로 나타났다. 영화 개봉 당시 문제가 되었던 주연배우 유역비의 홍콩 경찰 지지 논란과 관련하여 홍콩 및 중국 내 소수민족과 중국 공산당에 관한 키워드가 주로 언급되었다. 평점 4-7점에서는 ‘아쉬움’, ‘그저’, ‘논란’, ‘나름’, ‘자체’ 등의 키워드가 나타났다. ‘논란’이라는 키워드가 나타나긴 하지만 평점 1-3점과 달리 논란과 관련한 키워드들이 직접적으로 나타나지는 않는다. 대신 영화의 특성 및 작품성과 관련한 키워드가 주를 이룬다. 
 평점 8-10점에서는 ‘액션’, ‘감동’, ‘감상’, ‘입니다’, ‘좋았어요’, ‘봤습니다’ 등의 키워드가 나타났다. 주로 ‘감동’, ‘좋다’ 등의 긍정적인 키워드가 나타나며 공손한 존대어 등의 어미 역시 주요 키워드에 포함되었다.
@@ -81,30 +81,30 @@
 #### 가. 불한당: 나쁜 놈들의 세상(2016)
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817130-85cf7d80-4412-11eb-94cf-5eb6c890335d.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817129-8536e700-4412-11eb-911d-f232c903bc3c.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817126-849e5080-4412-11eb-8df2-e5dc4033d848.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817130-85cf7d80-4412-11eb-94cf-5eb6c890335d.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817129-8536e700-4412-11eb-911d-f232c903bc3c.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817126-849e5080-4412-11eb-8df2-e5dc4033d848.png">
 
 #### 나. 지금은맞고그때는틀리다(2015), 밤의 해변에서 혼자(2016) 
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="250" src="https://user-images.githubusercontent.com/74141344/102817243-c3340b00-4412-11eb-9c4d-5d50f442fc7d.png">
- <img width="250" src="https://user-images.githubusercontent.com/74141344/102817248-c4653800-4412-11eb-9572-bc5da5607299.png">
- <img width="250" src="https://user-images.githubusercontent.com/74141344/102817246-c3cca180-4412-11eb-872a-a77ef0d513c0.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817243-c3340b00-4412-11eb-9c4d-5d50f442fc7d.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817248-c4653800-4412-11eb-9572-bc5da5607299.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817246-c3cca180-4412-11eb-872a-a77ef0d513c0.png">
  
 #### 다. 뮬란(2020)
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="200" src="https://user-images.githubusercontent.com/74141344/102817299-dfd04300-4412-11eb-9cb3-6146283cf42f.png">
- <img width="200" src="https://user-images.githubusercontent.com/74141344/102817297-dfd04300-4412-11eb-82a0-e602f5020df9.png">
- <img width="200" src="https://user-images.githubusercontent.com/74141344/102817294-df37ac80-4412-11eb-8579-775239322c89.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817299-dfd04300-4412-11eb-9cb3-6146283cf42f.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817297-dfd04300-4412-11eb-82a0-e602f5020df9.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817294-df37ac80-4412-11eb-8579-775239322c89.png">
 
 #### 어미 분석
 왼쪽부터 불한당, 홍상수 영화, 뮬란이다.
 <div>
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817893-edd29380-4413-11eb-90e9-13663165225c.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817884-eca16680-4413-11eb-8d5c-874ef4e9a389.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817890-edd29380-4413-11eb-9e80-70a6c30adbf2.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817893-edd29380-4413-11eb-90e9-13663165225c.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817884-eca16680-4413-11eb-8d5c-874ef4e9a389.png">
+ <img width="270" src="https://user-images.githubusercontent.com/74141344/102817890-edd29380-4413-11eb-9e80-70a6c30adbf2.png">
   
   > 앞선 Word Cloud 분석에서 평점에 따라 리뷰에 나타나는 어미의 차이가 있다고 언급하였는데, 수치를 가지고 비교하면 완전히 양분되는 결과가 나타나지는 않음을 알 수 있다. 그러나 객관적인 수치를 통해 낮은 평점일수록 부정적인 어감의 단어와 함께 반말의 어미를 자주 사용하고, 높은 평점일수록 긍정적인 어감의 단어와 함께 존댓말의 어미를 잘 사용한다는 경향은 도출이 가능하다.
 세 가지의 분석대상 중 데이터양이 가장 많았던 불한당의 경우에서 특히 이러한 경향이 잘 나타난다. 높은 평점에서 2번째의 '아깝다(0.352%)'를 제외하면 모두 '-니다' 혹은 '-요'와 같이 경어체의 서술어가 상위권에 속했다. 해당 데이터와 일부 원문 분석을 종합하여 제작진과 영화에 대한 호평을 남기거나 다른 네티즌에게 영화를 추천하여 즐거움을 공유하고자 하는 의도가 있음을 알 수 있었다. 반면 낮은 평점에서는 4번째의 '입니다(0.225%)와 7번째 '같네요(0.194%)'를 제외하면 모두 존대어보다는 평이하고 단정적인 말투의 서술어가 상위권을 차지하였다. 원문 분석과 데이터를 조합해 비교한 결과, 주로 영화와 제작진을 비판하고자 하는 의도가 강하기 때문에 이런 데이터가 나온 것으로 확인하였다.
