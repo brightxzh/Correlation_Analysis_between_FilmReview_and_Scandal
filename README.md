@@ -39,10 +39,8 @@
 Ⅲ.데이터 분석 결과
 -------------
 >### 1.Word Cloud 분석
-
->#### 가. 불한당: 나쁜 놈들의 세상(2016)
-
->왼쪽부터 평점 1-3점, 4-7점, 8-10점
+#### 가. 불한당: 나쁜 놈들의 세상(2016)
+왼쪽부터 평점 1-3점, 4-7점, 8-10점
 <div>
  <img width="500" src="https://user-images.githubusercontent.com/74141344/102816492-713eb580-4411-11eb-8c95-4732edbf8ae3.png">
  <img width="500" src="https://user-images.githubusercontent.com/74141344/102816486-6f74f200-4411-11eb-8306-600658fec240.png">
