@@ -42,9 +42,9 @@
 #### 가. 불한당: 나쁜 놈들의 세상(2016)
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="500" src="https://user-images.githubusercontent.com/74141344/102816492-713eb580-4411-11eb-8c95-4732edbf8ae3.png">
- <img width="500" src="https://user-images.githubusercontent.com/74141344/102816486-6f74f200-4411-11eb-8306-600658fec240.png">
- <img width="500" src="https://user-images.githubusercontent.com/74141344/102816489-70a61f00-4411-11eb-857f-980876fa5295.png">
+ <img width="400" src="https://user-images.githubusercontent.com/74141344/102816492-713eb580-4411-11eb-8c95-4732edbf8ae3.png">
+ <img width="400" src="https://user-images.githubusercontent.com/74141344/102816486-6f74f200-4411-11eb-8306-600658fec240.png">
+ <img width="400" src="https://user-images.githubusercontent.com/74141344/102816489-70a61f00-4411-11eb-857f-980876fa5295.png">
   
 > 평점 1-3점에서는 ‘일베’, ‘홍어’, ‘전라도’, ‘SNS', ‘트위터’, ‘인성’, ‘망한’ 등의 키워드가 나타났다. 영화 자체를 폄하하는 키워드도 나타나지만, 감독의 언행 및 정치 성향 등 논란이 되었던 주제와 관련한 키워드가 다수를 이루었다. 평점 4-7점에서는 ‘논란’, ‘그냥’, ‘킬링타임’, ‘그럭저럭’, ‘짬뽕’, ‘아쉽다’, ‘수준’ 등의 키워드가 나타났다. 평점 1-3점이나 8-10점보다는 다소 영화 내적인 요소인 캐스팅이나 스토리와 관련한 키워드가 두드러지는 양상을 보였다. 평점 8-10점에서는 ‘느와르’, ‘연기’, ‘스토리’, ‘연기력’, ‘좋았습니다’, ‘봤습니다’, ‘재밌었어요’ 등의 키워드가 나타났다. 평점 4-7점과 비슷하게 영화의 내부적 요소인 스토리나 배우의 연기력에 대해 언급하고 있지만, 주로 ‘좋다’, ‘재밌다’ 등의 긍정적인 감정 표현이 두드러진다.
 ‘신세계’, ‘프리즌’, ‘무간도’ 등 느와르 장르의 다른 영화제목은 모든 평점 구간에서 나타나고 있으나, 실제 원문을 분석하면 완전히 반대되는 문맥을 나타내고 있다. 높은 평점에서는 ‘불한당이 ㅇㅇ 영화보다 낫다’ 등의 의미로 언급되지만, 낮은 평점에서는 ‘감히 ㅇㅇ 영화와 비교를 하느냐’ 등의 의미로 언급되고 있다.
@@ -88,16 +88,16 @@
 #### 나. 지금은맞고그때는틀리다(2015), 밤의 해변에서 혼자(2016) 
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817243-c3340b00-4412-11eb-9c4d-5d50f442fc7d.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817248-c4653800-4412-11eb-9572-bc5da5607299.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817246-c3cca180-4412-11eb-872a-a77ef0d513c0.png">
+ <img width="250" src="https://user-images.githubusercontent.com/74141344/102817243-c3340b00-4412-11eb-9c4d-5d50f442fc7d.png">
+ <img width="250" src="https://user-images.githubusercontent.com/74141344/102817248-c4653800-4412-11eb-9572-bc5da5607299.png">
+ <img width="250" src="https://user-images.githubusercontent.com/74141344/102817246-c3cca180-4412-11eb-872a-a77ef0d513c0.png">
  
 #### 다. 뮬란(2020)
 왼쪽부터 평점 1-3점, 4-7점, 8-10점이다.
 <div>
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817299-dfd04300-4412-11eb-9cb3-6146283cf42f.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817297-dfd04300-4412-11eb-82a0-e602f5020df9.png">
- <img width="300" src="https://user-images.githubusercontent.com/74141344/102817294-df37ac80-4412-11eb-8579-775239322c89.png">
+ <img width="200" src="https://user-images.githubusercontent.com/74141344/102817299-dfd04300-4412-11eb-9cb3-6146283cf42f.png">
+ <img width="200" src="https://user-images.githubusercontent.com/74141344/102817297-dfd04300-4412-11eb-82a0-e602f5020df9.png">
+ <img width="200" src="https://user-images.githubusercontent.com/74141344/102817294-df37ac80-4412-11eb-8579-775239322c89.png">
 
 #### 어미 분석
 왼쪽부터 불한당, 홍상수 영화, 뮬란이다.
